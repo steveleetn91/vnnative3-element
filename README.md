@@ -7,7 +7,7 @@ Support action with Element
 
 ## Import 
 
-    import Vnnative3Element from "vnnative3-element/dist/Vnnative3Element"
+    import Vnnative3Element from "vnnative3-element/dist/libs/Vnnative3Element"
 
 ## How to use 
 You can use same :
